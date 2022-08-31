@@ -25,7 +25,7 @@ npm install
 nodemon index.js
 ```
 
-We will need (Postman)[https://www.postman.com/downloads] software to test and demonstrate the APIs. 
+We will need [Postman](https://www.postman.com/downloads) software to test and demonstrate the APIs. 
 
 Following is a list of the API endpoints:
 `
